@@ -1,0 +1,49 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  padding-bottom: 0px;
+}
+
+body {
+  padding-top: 58px;
+}
+
+.row {
+  padding: 10px;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#linkedIn:hover {
+  background-color: rgb(255,255,255);
+  color: rgb(52,58,64);
+}
+
+#linkedIn {
+  color: rgb(255,255,255);
+}
+
+p {
+  color: rgb(255,255,255);
+}
+
+#about {
+}
+
+.h1, h1 {
+  color: rgb(255,255,255);
+}
+
+.h3, h3 {
+  color: rgb(255,255,255);
+}
+
+.h5, h5 {
+  color: rgb(255,255,255);
+}
+
+h2 {
+  color: rgb(255,255,255);
+}
+
